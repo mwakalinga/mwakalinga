@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/o/profiles/users/~019e2d1e8cfddc09ac/)](https://www.upwork.com/o/profiles/users/~019e2d1e8cfddc09ac/)
+
 <!--
 **mwakalinga/mwakalinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
