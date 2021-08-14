@@ -5,6 +5,8 @@
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/o/profiles/users/~019e2d1e8cfddc09ac/)](https://www.upwork.com/o/profiles/users/~019e2d1e8cfddc09ac/)
 
 [![mwakalinga's github trophy](https://github-profile-trophy.vercel.app/?username=mwakalinga&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mwakalinga)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![mwakalinga's github stats](https://github-readme-stats.vercel.app/api?username=mwakalinga&count_private=true&show_icons=true)
 
