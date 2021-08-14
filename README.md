@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mwakalinga)
+
 ### Hi there 👋
 
 <!--
